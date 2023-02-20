@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #303030;
+}
+.smile{
+    width: 35px;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.logo{
+    font-size: xx-large;
+    text-transform: uppercase;
+    position: relative;
+    top: -8px;
+}
+.menu{
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 300px;
+    margin-right: 500px;
+    margin-top: -30px;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: none;
+    
+}
+.hover:hover{
+    color: black;
+    text-decoration: underline;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1200px;
+    margin-top: -15px;
+    margin-right: 10px;
+}
