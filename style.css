@@ -40,3 +40,35 @@ body{
     margin-top: -15px;
     margin-right: 10px;
 }
+.introdection{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+#im{
+    text-transform: capitalize;
+    font-size:  80px;
+}
+#qadir{
+    text-transform: capitalize;
+    font-size: 80px;
+    border: 5px solid orange;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    width:fit-content;
+}
+#para1{
+    text-transform: capitalize;
+    font-size: 25px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.445);
+    width: 500px;
+    height: 500px;
+    border-radius: 500px;
+    margin-top: -380px;
+    margin-left: 450px;
+    z-index: 10;
+}
