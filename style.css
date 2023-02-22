@@ -72,3 +72,58 @@ body{
     margin-left: 450px;
     z-index: 10;
 }
+.services{
+    position: absolute;
+    right: 250px;
+    top: 200px;
+}
+#ser{
+    font-size: 25px;
+}
+#para2{
+    font-size: 20px;
+}
+#show{
+    color: orange ;
+}
+.bi1{
+    color: orange;
+  
+    
+}
+.icon{
+    display: flex;
+    justify-content: space-between;
+}
+.boxes{
+    background-color: black;
+    width: 900px;
+    height: 100px;
+    margin-left: 250px;
+     display: flex;
+    justify-content: space-between; 
+    
+}
+.meta{
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+    margin-left: 20px;
+
+
+}
+.google{
+    width: 80px;
+    height: 80px;
+    margin-left: 50px;
+    margin-top: 10px;
+    
+}
+.linkin{
+    width: 80px;
+    height: 60px;
+    margin-left: 100px;
+    
+
+}
+
