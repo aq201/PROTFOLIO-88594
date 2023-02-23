@@ -95,35 +95,52 @@ body{
     display: flex;
     justify-content: space-between;
 }
-.boxes{
-    background-color: black;
+
+.box{
+     background-color: rgba(0, 0, 0, 0.486);
     width: 900px;
+    height: 90px;
+    color: #fff;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+    margin-left: 240px;
+    padding-bottom: 45px;
+    padding-right: 25px; 
+    flex-direction: row;
+}
+.box2{
+    background-color: rgba(0, 0, 0, 0.342);
+    height:50px;
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 30px;
+    padding-top: 45px;
+    padding-left: 50px;
+     
+}
+.bx{
+    height: 80px;
+    width: 150px;
+     position: relative;
+    right: 51px;
+    bottom: 20px;
+    top: -40px;
+    
+    
+    
+}
+div.endbody{
+    background-color: #202020;
+}
+.img01{
+    width: 100px;
     height: 100px;
-    margin-left: 250px;
-     display: flex;
-    justify-content: space-between; 
-    
-}
-.meta{
-    width: 80px;
-    height: 80px;
-    margin-top: 10px;
-    margin-left: 20px;
-
+    margin-left: 800px;
+    margin-top: 50px;
 
 }
-.google{
-    width: 80px;
-    height: 80px;
-    margin-left: 50px;
-    margin-top: 10px;
-    
-}
-.linkin{
-    width: 80px;
-    height: 60px;
-    margin-left: 100px;
-    
 
-}
+
 
