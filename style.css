@@ -55,7 +55,7 @@ body{
     border-top: hidden;
     border-left: hidden;
     border-right: hidden;
-    width:fit-content;
+    width:fit-content; 
 }
 #para1{
     text-transform: capitalize;
