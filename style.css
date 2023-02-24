@@ -138,7 +138,7 @@ div.endbody{
     width: 100px;
     height: 100px;
     margin-left: 800px;
-    margin-top: 30px;
+    margin-top: 5px;
     
     
 
@@ -146,7 +146,7 @@ div.endbody{
 .img02{
     margin-left: 920px;
     position: relative;
-    top: 110px;
+    top: 80px;
 }
 .line{
     width: 400px;
@@ -156,14 +156,27 @@ div.endbody{
 .bi001{
     margin-left: 1130px;
     position: relative;
-    top: 135px;
+    top: 110px;
     color: orange;
 }
 .top{
+    position: absolute;
+    top:  900px;
+    margin-left: 60px;
+
 
     
 }
-.boxes004{
+.center{
+    margin-left: 130px;
+    position: relative;
+    top: -129px;
+    
+}
+.color{
+    color: orange;
+}
+.lastbox01{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -191,5 +204,10 @@ div.endbody{
     height: 200px;
     padding-top: 10PX;
     padding-left:50PX;
+}
+#UX{
+    width: 30px;
+    height: 30px;
+    
 }
 
